@@ -1,4 +1,4 @@
-/* Add a black background color to the top navigation */
+/* Add a black background color to the top navigatio */
 .NavBar {
     background-color: rgb(0, 0, 0);
     overflow: hidden;
@@ -26,4 +26,4 @@
     height: auto;
     background-color: #087ecc;
     color: white;
-  }
+  } 
