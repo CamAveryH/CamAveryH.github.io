@@ -22,8 +22,8 @@
   
   /* Add a color to the active/current link */
   .NavBar a.active {
+    position: absolute;
+    height: auto;
     background-color: #087ecc;
     color: white;
   }
-
-  
